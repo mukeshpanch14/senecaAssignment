@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 16 18:36:12 2020
 
-@author: 1296311
-"""
 
 import unittest
 import shoppingCart as sc
